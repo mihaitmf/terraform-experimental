@@ -4,7 +4,7 @@ vagrant:
   machine-ip-address: 192.168.89.103
   box-name: ubuntu/bionic64
   provisioning:
-    shell-dir-relative-path: .dev/provisioning/shell/
+    shell-dir-relative-path: .dev/provisioning/shell
 
 git:
   name: Firstname Lastname
